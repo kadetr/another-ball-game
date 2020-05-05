@@ -31,8 +31,8 @@ ball can split up to 4
 
 IN PROGRESS-FUTURE WORK
 
--creating +40 levels: classic dx-ball like levels as well as actual concepts (trump, corona, virus, social media, etc) 
--solving performance issues: I created a version without Phaser and it works pretty fast but also I want to create a version with Phaser with acceptable performance.
+- creating +40 levels: classic dx-ball like levels as well as actual concepts (trump, corona, virus, social media, etc) 
+- solving performance issues: I created a version without Phaser and it works pretty fast but also I want to create a version with Phaser with acceptable performance.
 - start game with different types of balls/paddles
 - level up to earn activate powerups
 - refactoring the code for better memory and calculation performance 
