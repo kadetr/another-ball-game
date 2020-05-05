@@ -4,6 +4,7 @@ with Phaser
 dx-ball like game with following items:
 
 BASICS
+
 ball: works with Phaser arcade physics. Every time it hits brick or paddle a hit counter increases. After reaching hit limit, ball gets fasters and counter restarts.
 
 paddle: works with cursor keys.
@@ -18,6 +19,7 @@ brick: exists several types of bricks. up until now, soft, hard , invisible, exp
 level: keeps the level map and brick details in matrix 
 
 POWERUPS
+
 paddle can lenghten 
 paddle can shorten
 paddle can acquire a gun to shoot bricks
@@ -28,6 +30,7 @@ ball can slow down
 ball can split up to 4
 
 IN PROGRESS-FUTURE WORK
+
 -creating +40 levels: classic dx-ball like levels as well as actual concepts (trump, corona, virus, social media, etc) 
 -solving performance issues: I created a version without Phaser and it works pretty fast but also I want to create a version with Phaser with acceptable performance.
 - start game with different types of balls/paddles
